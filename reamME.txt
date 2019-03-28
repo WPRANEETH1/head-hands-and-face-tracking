@@ -1,0 +1,3 @@
+E:\1) U_Final Year project\complete face detec\opencv\build\x64\vc12\bin
+
+E:\1) U_Final Year project\complete face detec\opencv\build\x64\vc12\staticlib
